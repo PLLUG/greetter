@@ -1,0 +1,43 @@
+{
+  "name": "greetter",
+  "version": "1.0.0",
+  "description": "Github API based data-visualition app for developers. PLLUG web branch final project, green team.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "karma start --browser=Chrome test/karma.conf.js --auto-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PLLUG/greetter.git"
+  },
+  "keywords": [
+    "Github",
+    "Git",
+    "API",
+    "PLLUG"
+  ],
+  "author": "Volodymyr Lut, Sirskiy Yarema, Yaroslav Borovyi, Roman Dmytriv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PLLUG/greetter/issues"
+  },
+  "homepage": "https://github.com/PLLUG/greetter",
+  "dependencies": {
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-connect": "^2.2.0",
+    "gulp-csso": "^1.0.0",
+    "gulp-es6-transpiler": "^1.0.1",
+    "gulp-jade": "^1.0.0",
+    "gulp-sass": "^2.0.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.32",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.3.5"
+  }
+}
