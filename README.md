@@ -21,7 +21,12 @@ Github API based data-visualition app for developers. PLLUG web branch final pro
 ## Source control
 ##### We will use this git repository for our source control needs. Master branch is used only for **stable** versions, so please, don't commit stuff there. Your main branch is called "dev". If you need to to some task, please checkout new branch (called with the name of the issue), do things and then merge it to the dev.
 ## Get involved
-##### Clone repository to your machine. Create some folder for your projects, than open it in the terminal and type
+##### First of all you'll need to install some global stuff. Please, be sure, that you've installed [node.js](npm install -g bower). Then you will need to install globaly bower and karma-cli. Type in terminal:
+```
+npm install -g bower
+npm install -g karma-cli
+```
+##### Then clone repository to your machine. Create some folder for your projects, than open it in the terminal and type
 ```
 git clone git@github.com:PLLUG/greetter.git
 ```
