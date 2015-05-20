@@ -1,4 +1,6 @@
 # Greetter
+
+[![Join the chat at https://gitter.im/PLLUG/greetter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PLLUG/greetter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Github API based data-visualition app for developers. PLLUG web branch final project, green team.
 ## What we are doing?
 ##### Gretter is set of widgets to show you, how cool you are. Kind of tool for your productivity control.
