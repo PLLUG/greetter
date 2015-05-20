@@ -4,7 +4,7 @@
 Github API based data-visualition app for developers. PLLUG web branch final project, green team.
 ## What we are doing?
 ##### Gretter is set of widgets to show you, how cool you are. Kind of tool for your productivity control.
-## Project managment
+## Project management
 ##### Check out current project status on [Trello board](https://trello.com/b/RYbD6RAJ/gretter).
 ## Stack
 ### Dev
